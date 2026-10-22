@@ -8,7 +8,7 @@ Cloud - Azure
 Web - .NET, Python
 AI - Cloud Services, Development, MCP
 
-**Professional Journey**
-UBS 2025 - 2026
-Toshiba 2022 - 2025
-ValueMomentum 2019 - 2022
+**Professional Journey**  
+UBS 2025 - 2026  
+Toshiba 2022 - 2025  
+ValueMomentum 2019 - 2022  
