@@ -9,13 +9,14 @@ frameworks.
 
 > Global Azure Bootcamp [March 2022 - April 2022] and [June 2020 - July 2020] 
 
->➡Upgrade of Project from .NET 5 to .NET 6 for the boot-camp hosted by Company community 
->➡Azure service cost estimation and service setup. 
->➡Code Deployment, Sanity test and Data analytics using Power BI 
->➡Created solution to track attendees who joined the Web Session on teams 
->➡Website SSL and deployment configuration to setup Dev and Production environment 
+➡Upgrade of Project from .NET 5 to .NET 6 for the boot-camp hosted by Company community 
+➡Azure service cost estimation and service setup. 
+➡Code Deployment, Sanity test and Data analytics using Power BI 
+➡Created solution to track attendees who joined the Web Session on teams 
+➡Website SSL and deployment configuration to setup Dev and Production environment 
 
 > ValueMomentum [March 2020 - August 2021] 
+
 ➡Worked on Microsoft Bot framework in .NET core 3.0 to create end to end application for insurance 
 customers. 
 ➡User services Azure app service, Azure LUIS, Azure SQL, Blob storage, Itext7 Lib, Zipcodes API, Mulesoft API, 
