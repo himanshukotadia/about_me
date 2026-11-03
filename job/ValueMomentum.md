@@ -16,15 +16,14 @@
 
 > ValueMomentum [March 2020 - August 2021] 
 
-➡Worked on Microsoft Bot framework in .NET core 3.0 to create end to end application for insurance 
-customers. 
-➡User services Azure app service, Azure LUIS, Azure SQL, Blob storage, Itext7 Lib, Zipcodes API, Mulesoft API, 
-➡Bing Maps API.
-➡API application to serve data along with Azure DevOps CI/CD. 
-➡Created similar POC use case on AWS using Lambdas
-➡Client Demos and meetings with Stakeholders
- Power Automate integration and support 
+➡Worked on Microsoft Bot framework in .NET core 3.0 to create end to end application for insurance customers.  
+➡User services Azure app service, Azure LUIS, Azure SQL, Blob storage, Itext7 Lib, Zipcodes API, Mulesoft API, Bing Maps API.  
+➡API application to serve data along with Azure DevOps CI/CD.  
+➡Created similar POC use case on AWS using Lambdas.  
+➡Client Demos and meetings with Stakeholders.  
+➡Power Automate integration and support.  
 
-> Valuemomentum Marketing [June 2019 - February 2020] 
-➡Worked with the Company marketing team to handle the Company Website created in Wordpress. 
-Collaborating to update and release content.
+> ValueMomentum Marketing [June 2019 - February 2020]  
+
+➡Worked with the Company marketing team to handle the Company Website created in Wordpress.  
+➡Collaborating to update and release content.  
