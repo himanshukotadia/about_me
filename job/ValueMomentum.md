@@ -2,18 +2,17 @@
 
 > KLIC [September 2021 - November 2022] 
 
->➡Worked to setup SQL server on premise, Azure boards setup, Documentation and Worksheet tracking tool 
->➡Worked with customer IT team to provide support for Azure AD link, Azure DevOps and Agent VM setup. 
->➡Multiple research and POC on services like Konveyor.IO, Landing Zones, Cloud Monitoring and Observability 
-frameworks. 
+➡Worked to setup SQL server on premise, Azure boards setup, Documentation and Worksheet tracking tool.  
+➡Worked with customer IT team to provide support for Azure AD link, Azure DevOps and Agent VM setup.  
+➡Multiple research and POC on services like Konveyor.IO, Landing Zones, Cloud Monitoring and Observability frameworks.  
 
 > Global Azure Bootcamp [March 2022 - April 2022] and [June 2020 - July 2020] 
 
-➡Upgrade of Project from .NET 5 to .NET 6 for the boot-camp hosted by Company community 
-➡Azure service cost estimation and service setup. 
-➡Code Deployment, Sanity test and Data analytics using Power BI 
-➡Created solution to track attendees who joined the Web Session on teams 
-➡Website SSL and deployment configuration to setup Dev and Production environment 
+➡Upgrade of Project from .NET 5 to .NET 6 for the boot-camp hosted by Company community.  
+➡Azure service cost estimation and service setup.  
+➡Code Deployment, Sanity test and Data analytics using Power BI.   
+➡Created solution to track attendees who joined the Web Session on teams.  
+➡Website SSL and deployment configuration to setup Dev and Production environment.  
 
 > ValueMomentum [March 2020 - August 2021] 
 
