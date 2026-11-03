@@ -12,7 +12,7 @@
 ➡ New Initiative : Python based Azure function to Migrate functionality from existing common Powershell code pipeline. Ultimately reducing TTM from 6 WD to 2 WD.  
 ➡ Implementation of Key vaults with CMK, MMK, Read-only and Read-write DB keys.  
 ➡ RBAC and custom Roles for Database Access control on Subscription and Management group level.  
-➡ Cosmos DB Data Migration for 2 different project, delivered migration for more than 50 Million Cosmos DB records. 
+➡ Cosmos DB Data Migration for 2 different project, delivered migration for more than 50 Million Cosmos DB records.  
 ➡ Closely working with Microsoft Product teams for above 4 database service to get new features, streamline existing for the bank and curate new features for better adoption.  
 
 > UBS Hackathon [July 2025 - 2 Days]
