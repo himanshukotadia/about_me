@@ -17,6 +17,6 @@
 
 > UBS Hackathon [July 2025 - 2 Days]
 
-➡ Intrusion Detection system Using Generative AI.
-➡ Worked as a part of team to define requirement and implement hackathon POC.
-➡ Used internal generative AI tool to create dummy data, luring and tracking attackers.
+➡ Intrusion Detection system Using Generative AI.  
+➡ Worked as a part of team to define requirement and implement hackathon POC.  
+➡ Used internal generative AI tool to create dummy data, luring and tracking attackers.  
