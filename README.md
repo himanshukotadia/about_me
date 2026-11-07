@@ -6,10 +6,7 @@ Here I share more about my Learning and Experience across Professional Journey!
 
 **Skills on the Way**  
 I have learnt multiple skills and lead few team during my 7.5 Years of journey.  
-Along with those were :  
-Cloud - Azure  
-Web - .NET, Python  
-AI - Cloud Services, Development, MCP  
+Cloud, DevOps, Web and AI
 
 **Professional Journey**  
 UBS 2025 - 2026  
