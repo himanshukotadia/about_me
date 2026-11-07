@@ -2,7 +2,7 @@
 Here I share more about my Learning and Experience across Professional Journey!  
 
 **Skills on the Way**  
-I was fortunate to learn multiple Skills within short span of my career.
+I have learnt multiple skills and lead few team during my 7.5 Years of journey.
 Along with those were :  
 Cloud - Azure  
 Web - .NET, Python  
